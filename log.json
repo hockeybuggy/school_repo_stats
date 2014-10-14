@@ -1312,7 +1312,7 @@
   "parent": "995d25a3e52a23e5d1572685c1ed45e893f1beb6",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2014-03-22 20:04:57 -0400",
-  "message": "Added a non-working parseing mechinism""
+  "message": "Added a non-working parseing mechinism"
 },
 {
   "commit": "995d25a3e52a23e5d1572685c1ed45e893f1beb6",
@@ -4798,9 +4798,7 @@
   "parent": "bf9da39efdebf72ff8637b216ae499b868f0528a a3815789c252576be6973851f782eceabfbd46bb",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2013-03-18 13:49:13 -0400",
-  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts:
-	cis3700/assignment2/HornClauses/src/FCAgent.java
-"
+  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts: cis3700/assignment2/HornClauses/src/FCAgent.java"
 },
 {
   "commit": "bf9da39efdebf72ff8637b216ae499b868f0528a",
@@ -4835,10 +4833,7 @@
   "parent": "8de05aa7840a898bb2849c65a6eb552ebc3d56a9 100e4fef87369917129f5f41c98ad4c9d7370e33",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2013-03-17 22:58:59 -0400",
-  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts:
-	cis3700/assignment2/HornClauses/src/Clause.java
-	cis3700/assignment2/HornClauses/src/Symbol.java
-"
+  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts: cis3700/assignment2/HornClauses/src/Clause.java cis3700/assignment2/HornClauses/src/Symbol.java"
 },
 {
   "commit": "8de05aa7840a898bb2849c65a6eb552ebc3d56a9",
@@ -5090,9 +5085,7 @@
   "parent": "13b2bd5c88a5cdc48edd3519b066a6740c6b5d78 c2b026388aa09c554828b67c364f47b4a9fadad2",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2013-02-13 11:38:46 -0500",
-  "message": "Merge branch 'master' of gh:hockeybuggy/dander01Conflicts:
-	cis3760/report1.odt
-"
+  "message": "Merge branch 'master' of gh:hockeybuggy/dander01Conflicts: cis3760/report1.odt "
 },
 {
   "commit": "13b2bd5c88a5cdc48edd3519b066a6740c6b5d78",
@@ -5246,9 +5239,7 @@
   "parent": "17b5328b85c7c82f05f8905552e32b20ceaa79d2 666fcfcc37c5a30aa1054ffd347f0a6e47acf570",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2013-02-04 23:15:36 -0500",
-  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts:
-	cis3760/report1.odt
-"
+  "message": "Merge branch 'master' of github.com:hockeybuggy/dander01Conflicts: cis3760/report1.odt"
 },
 {
   "commit": "17b5328b85c7c82f05f8905552e32b20ceaa79d2",
@@ -5836,8 +5827,7 @@
   "parent": "bb263bb7c0d72f894432ac71921c254b541e3012",
   "author": "Douglas Anderson <dougjamesanderson@gmail.com>",
   "date": "2013-01-20 17:31:16 -0500",
-  "message": "Moved Game to Game Class. Made a mazed class.The maze class also has a MazeNode and MazeEdge.
-"
+  "message": "Moved Game to Game Class. Made a mazed class.The maze class also has a MazeNode and MazeEdge."
 },
 {
   "commit": "bb263bb7c0d72f894432ac71921c254b541e3012",
@@ -6243,7 +6233,7 @@
   "parent": "f664b89d716f0d32712491b341bb0973f442ad48",
   "author": "Douglas Anderson <hockeybuggy@gmail.com>",
   "date": "2012-03-31 02:51:43 -0400",
-  "message": "THAT IS IT\! I AM DONE 2750\!\!\!\!\!\! Good work me\!"
+  "message": "THAT IS IT! I AM DONE 2750!!!!!! Good work me!"
 },
 {
   "commit": "f664b89d716f0d32712491b341bb0973f442ad48",
@@ -6362,7 +6352,7 @@
   "parent": "54b0439457404e0ef5b6ba71273ba305d908e999",
   "author": "Douglas Anderson <hockeybuggy@gmail.com>",
   "date": "2012-03-27 21:43:28 -0400",
-  "message": "I have started with a new query window and I added a database menu bar item. Good day. And now for triva\!"
+  "message": "I have started with a new query window and I added a database menu bar item. Good day. And now for triva!"
 },
 {
   "commit": "54b0439457404e0ef5b6ba71273ba305d908e999",
